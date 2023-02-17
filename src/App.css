@@ -1,0 +1,33 @@
+/* Navbar */
+
+.navbar-nav a{
+  font-size: 18px;
+}
+
+.stck {
+  background-color: rgb(9, 109, 172);
+ 
+}
+
+/* .pp-color {
+  color: #272521;
+  font-weight: 700;
+}
+
+.pp-color-2 {
+  color: #b5b4b3;
+
+} */
+.aa a{
+  text-decoration: none;
+  color:white ;
+  font-weight: 700;
+
+}
+.aa a:hover{
+  color: red;
+}
+.back-color{
+  background-color: black;
+  
+}
